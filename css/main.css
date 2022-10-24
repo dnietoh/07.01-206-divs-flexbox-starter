@@ -86,7 +86,7 @@ textarea {
 
 .browserupgrade {
     margin: 0.2em 0;
-    background: #ccc;
+    background: rgb(6, 2, 2);
     color: #000;
     padding: 0.2em 0;
 }
@@ -97,7 +97,7 @@ textarea {
 
 
 html {
-  background-color: #fff;
+  background-color: #060101;
   height: 100%;
 }
 
@@ -119,12 +119,13 @@ body {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
   color: #fff;
   line-height: 1.5em;
-  font-size: 1.6em;
-  background-color: #f16059;
-  height: 300px;
+  font-size: 1.2em;
+  background-color: #7c7777;
+  height: auto;
   display:flex;
   width: 30%;
   justify-content: center;
+  overflow: auto;
 }
 
 
